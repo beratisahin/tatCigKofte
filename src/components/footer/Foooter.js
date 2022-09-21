@@ -47,9 +47,7 @@ export default class Foooter extends Component {
               }}
             >
               {" "}
-              Vezirköprü Tat Çiğ Köfte olarak hastalarımıza ve danışanlarımıza farklı medikal alanlarda hizmet sunmaktayız. Medikal estetikten saç ekimine kadar, son teknoloji cihazlarımız ve uzman ekibimizle her adımda yanınızdayız.
-
-Vezirköprü Tat Çiğ Köfte olarak, hastalarımıza ulaşmak istedikleri görünümü kazandırmak için farklı tedavi seçenekleri sunuyoruz. 
+              Vezirköprü Çiğ Köfte olarak etli çiğ köfte tadında etsiz çiğ köftemiz bulunmaktadır. Her gün taze olarak gelen ürünlerimizle siz değerli müşterilerimize hizmet vermekteyiz. 
             </p>
           </div>
 

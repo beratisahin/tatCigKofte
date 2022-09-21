@@ -44,7 +44,7 @@ function Home() {
             fontFamily: "sans-serif",
           }}
         >
-          Hizmetlerimiz
+          İçeceklerimiz
         </h2>
         <Owl />
       </div>
