@@ -208,7 +208,7 @@ header {
     width: 2em;
     height: 0.25em;
     display: block;
-    background-color: #daac1d !important; 
+    background-color: #FD0F0F !important; 
     /*background: var(--light);*/
     position: absolute;
     right: 1rem !important;

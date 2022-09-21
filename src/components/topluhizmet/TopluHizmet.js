@@ -1,11 +1,11 @@
 import Taslak from "../taslakhizmet/Taslak.js";
 import "./TopluHizmet.css";
-import m1 from "./hizmetFotolar/bl1.jpg";
-import m2 from "./hizmetFotolar/bl2.webp";
-import m3 from "./hizmetFotolar/bl3.jpg";
-import m4 from "./hizmetFotolar/bl4.jpg";
-import m5 from "./hizmetFotolar/bl5.jpg";
-import m6 from "./hizmetFotolar/bl6.jpg";
+import m1 from "./hizmetFotolar/1.png";
+import m2 from "./hizmetFotolar/2.png";
+import m3 from "./hizmetFotolar/3.png";
+import m4 from "./hizmetFotolar/4.png";
+import m5 from "./hizmetFotolar/5.png";
+import m6 from "./hizmetFotolar/6.png";
 import React, { Component } from "react";
 import { TextField } from "@material-ui/core";
 import { Button } from "@material-ui/core";
@@ -27,7 +27,7 @@ export default class TopluHizmet extends Component {
     this.setState({ value: e.target.value });
     this.setState({
       kampanyaAd: encodeURI(
-        `https://wa.me/+905061712702?text=${e.target.value}`
+        `https://wa.me/+905302479585?text=${e.target.value}`
       ),
     });
   }

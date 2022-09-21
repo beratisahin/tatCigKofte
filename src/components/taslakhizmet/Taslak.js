@@ -12,7 +12,7 @@ export default class Taslak extends Component {
         <div class="image">
           <img
             src={taslakphoto}
-            title="Adıyaman Blue Liva Güzellik Merkezi"
+            title="Vezirköprü Tat Çiğ Köfte"
             style={{ width: "100%", height: "30rem" }}
           ></img>
           <div class="details">
@@ -26,13 +26,13 @@ export default class Taslak extends Component {
             </a>
             <div class="icon-links">
               <a href="#">
-                <i class="fa-solid fa-leaf" style={{ color: "#daac1d" }}></i>
+                <i class="fa-solid fa-leaf" style={{ color: "#FD0F0F" }}></i>
               </a>
               <a href="#">
-                <i class="fa-solid fa-crown" style={{ color: "#daac1d" }}></i>
+                <i class="fa-solid fa-crown" style={{ color: "#FD0F0F" }}></i>
               </a>
               <a href="#">
-                <i class="fas fa-heart" style={{ color: "#daac1d" }}></i>
+                <i class="fas fa-heart" style={{ color: "#FD0F0F" }}></i>
               </a>
             </div>
           </div>

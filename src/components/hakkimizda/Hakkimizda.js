@@ -2,17 +2,15 @@
 import './hakkımızda.css';
 import React from 'react';
 import useDocumentTitle from '../../useDocumentTitle.js';
-import Title from "../title/Title";
+
 
 function Hakkimizda() {
-    useDocumentTitle('Hakkımızda - Adıyaman Blue Liva Güzellik Merkezi');
+    useDocumentTitle('Hakkımızda - Vezirköprü Tat Çiğ Köfte');
     return (
 
         <div className="col-12">
         <div className="card m-4" style={{align:"center",backgroundColor:"#f8f7fb",borderRadius:"5px"}}>
-           <Title 
-                page_title="Hakkımızda"
-           />
+           
             
             <div className="card-body col-12" style={{padding:"3rem"}}>
                 <br/>

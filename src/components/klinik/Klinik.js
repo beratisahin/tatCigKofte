@@ -53,16 +53,16 @@ export default function Klinik() {
                  
                <KampComp
                     kampanyaResim={k1}
-                    kampanyaAd="https://wa.me/+905061712702?text=Merhaba%2C%20Komple%20V%C3%BCcut%20(T%C3%BCm%20Bacak%20-%20Genital%20B%C3%B6lge%20-%20Kol%20-%20Koltukalt%C4%B1)%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905302479585?text=Merhaba%2C%20Komple%20V%C3%BCcut%20(T%C3%BCm%20Bacak%20-%20Genital%20B%C3%B6lge%20-%20Kol%20-%20Koltukalt%C4%B1)%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20alabilir%20miyim%3F"
                 />
 
                 <KampComp
                     kampanyaResim={k2}
-                    kampanyaAd="https://wa.me/+905061712702?text=Merhaba%2C%20T%C3%BCm%20V%C3%BCcut%20(T%C3%BCm%20Bacak%20-%20Genital%20B%C3%B6lge%20-%20Koltukalt%C4%B1)%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905302479585?text=Merhaba%2C%20T%C3%BCm%20V%C3%BCcut%20(T%C3%BCm%20Bacak%20-%20Genital%20B%C3%B6lge%20-%20Koltukalt%C4%B1)%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20alabilir%20miyim%3F"
                 />
                 <KampComp
                     kampanyaResim={k3}
-                    kampanyaAd="https://wa.me/+905061712702?text=Merhaba%2C%20Tepeden%20T%C4%B1rna%C4%9Fa%20(Y%C3%BCz%20B%C3%B6lgesi%20-%20Genital%20B%C3%B6lge%20-%20Koltukalt%C4%B1-%20T%C3%BCm%20Bacak-%20Bel%2BS%C4%B1rt%2BPopo%20-%20G%C3%B6bek%2BG%C3%B6%C4%9F%C3%BCs%2BOmuz)%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905302479585?text=Merhaba%2C%20Tepeden%20T%C4%B1rna%C4%9Fa%20(Y%C3%BCz%20B%C3%B6lgesi%20-%20Genital%20B%C3%B6lge%20-%20Koltukalt%C4%B1-%20T%C3%BCm%20Bacak-%20Bel%2BS%C4%B1rt%2BPopo%20-%20G%C3%B6bek%2BG%C3%B6%C4%9F%C3%BCs%2BOmuz)%20kampanyas%C4%B1%20hakk%C4%B1nda%20bilgi%20alabilir%20miyim%3F"
                 />
             </OwlCarousel>
         </div>    

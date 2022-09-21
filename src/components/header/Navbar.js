@@ -35,7 +35,7 @@ export default class Navbar extends Component {
           <nav class="navbar">
             <div class="branding">
               <a href="/">
-                <img  className="BlueLivaLogo" title="Adıyaman Blue Liva Güzellik Merkezi" src={tatLogo}></img>
+                <img  className="BlueLivaLogo" title="Vezirköprü Tat Çiğ Köfte" src={tatLogo}></img>
               </a>
                 
             </div>

@@ -30,7 +30,7 @@ export default class Foooter extends Component {
       <div id="footer">
         <div class="row p-4" style={{ backgroundColor: "white", height:"auto" }}>
           <div className="col-lg-4 col-md-6 col-sm-6 col-12" style={{ fontSize: "15px",marginBottom:"2rem"  }}>
-            <a href="/" title="Adıyaman Blue Liva Güzellik Merkezi" alt="Adıyaman Blue Liva Güzellik Merkezi">
+            <a href="/" title="Vezirköprü Tat Çiğ Köfte" alt="Vezirköprü Tat Çiğ Köfte">
               <img
                 src={MainLogo2}
                 alt="logo"
@@ -47,15 +47,15 @@ export default class Foooter extends Component {
               }}
             >
               {" "}
-              Adıyaman Blue Liva Güzellik Merkezi olarak hastalarımıza ve danışanlarımıza farklı medikal alanlarda hizmet sunmaktayız. Medikal estetikten saç ekimine kadar, son teknoloji cihazlarımız ve uzman ekibimizle her adımda yanınızdayız.
+              Vezirköprü Tat Çiğ Köfte olarak hastalarımıza ve danışanlarımıza farklı medikal alanlarda hizmet sunmaktayız. Medikal estetikten saç ekimine kadar, son teknoloji cihazlarımız ve uzman ekibimizle her adımda yanınızdayız.
 
-Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikleri görünümü kazandırmak için farklı tedavi seçenekleri sunuyoruz. 
+Vezirköprü Tat Çiğ Köfte olarak, hastalarımıza ulaşmak istedikleri görünümü kazandırmak için farklı tedavi seçenekleri sunuyoruz. 
             </p>
           </div>
 
 
           <div className="col-lg-4 col-md-6 col-sm-6 col-12" style={{ fontSize: "12px",marginBottom:"2rem"  }}>
-            <b style={{ color: "#daac1d", fontSize: "18px" }}>Çalışma Takvimi</b>
+            <b style={{ color: "#FD0F0F", fontSize: "18px" }}>Çalışma Takvimi</b>
             <hr/>
             <table class="table table-striped" >
                     
@@ -97,8 +97,8 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
           </div>
 
           <div className="col-lg-4 col-md-6 col-sm-6 col-12" style={{ fontSize: "15px",marginBottom:"2rem"  }}>
-            <p style={{ color: "#daac1d", fontWeight: "bold", fontSize: "18px" }}>
-              Adıyaman Blue Liva Güzellik Merkezi
+            <p style={{ color: "#FD0F0F", fontWeight: "bold", fontSize: "18px" }}>
+              Vezirköprü Tat Çiğ Köfte
             </p>
             <hr/>
             <a
@@ -118,7 +118,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
               <InstagramIcon className="icon" style={{fontSize:"24px",color:"purple"}}/>
             </a>
             <a
-              href="https://wa.me/+905061712702"
+              href="https://wa.me/+905302479585"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -126,7 +126,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
               <WhatsAppIcon className="icon" style={{fontSize:"24px",color:"lightgreen"}}/>
             </a>
             <a
-              href="tel: +905061712702"
+              href="tel: +905302479585"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -145,35 +145,35 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
             <br/>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
-              <a href="mailto:blue.liva.adiyaman@gmail.com">
+              <a href="mailto:vezirkopru.tat.cig.kofte@gmail.com">
                 <EmailIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              blue.liva.adiyaman@gmail.com  
+              vezirkopru.tat.cig.kofte@gmail.com  
             </p>
             <p style={{  fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a
-                href="tel: +905061712702"
+                href="tel: +905302479585"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <SettingsPhoneIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              0506 171 27 02  <FontAwesomeIcon icon="coffee" size="lg" />
+              0530 247 95 85  <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{  fontSize: "14px", textAlign: "left" }}>
               
               <a 
-                href="https://www.google.com/maps?q=Alt%C4%B1y%C3%BCzevler+Mah.+%C4%B0maml%C4%B1k+Cad.+No:4+Merkez+/+Tokat&rlz=1C1GCEU_enTR867TR868&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi9uYK325H3AhVxS_EDHbHkA3AQ_AUoAXoECAEQAw"
+                href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12017.808613488854!2d35.4520107!3d41.1464841!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdd866292ca5dfda!2zVmV6aXJrw7ZwcsO8IFRhdCDDh2nEnyBLw7ZmdGU!5e0!3m2!1str!2str!4v1663776959479!5m2!1str!2str"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <HomeIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              Hoca Ömer Mah. 215 Sok. No:2/1A Kat:3 Daire:5 <br/> Merkez / Adıyaman{" "}
+              Nalbantlı Mahallesi TOKİ Konutları <br/> Vezirköprü / Samsun{" "}
 
              
             </p>
@@ -205,13 +205,13 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
           </div>
 
           <div className="roof-phone">
-              <a href="tel: +905061712702" className="phone_float" target="_blank" rel="noopener noreferrer">
+              <a href="tel: +905302479585" className="phone_float" target="_blank" rel="noopener noreferrer">
                   <PhoneIcon className="phone-icon"/>  
               </a>
           </div>
 
           <div className="roof-whatsapp">
-              <a href="https://wa.me/+905061712702" className="whatsapp_float" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/+905302479585" className="whatsapp_float" target="_blank" rel="noopener noreferrer">
                   <WhatsAppIcon className="whatsapp-icon"/>
               </a>
           </div>

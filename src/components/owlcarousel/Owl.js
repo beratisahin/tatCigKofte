@@ -5,12 +5,11 @@ import 'owl.carousel/dist/assets/owl.carousel.min.css'
 import 'owl.carousel/dist/assets/owl.theme.default.min.css'
 import { NavigateBeforeSharp } from '@material-ui/icons';
 
+import o1 from "../owlcarousel/owlIcons/1.png";
 import o2 from "../owlcarousel/owlIcons/2.png";
 import o3 from "../owlcarousel/owlIcons/3.png";
-import o4 from "../owlcarousel/owlIcons/4.png";
-import o5 from "../owlcarousel/owlIcons/5.png";
-import o6 from "../owlcarousel/owlIcons/6.png";
-import o7 from "../owlcarousel/owlIcons/7.png";
+
+
 
 
 
@@ -57,8 +56,8 @@ export default function Owl() {
             
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o2} className="owlCarouselImage" alt="Adıyaman Blue Liva Güzellik Merkezi" title="Adıyaman Blue Liva Güzellik Merkezi"></img>
-                   <p className="owlCarouselContent">Lazer Epilasyon</p>
+                    <img src={o1} className="owlCarouselImage" alt="Vezirköprü Tat Çiğ Köfte" title="Vezirköprü Tat Çiğ Köfte"></img>
+                   <p className="owlCarouselContent">Ayran</p>
                </div>
                 
             </div>
@@ -67,15 +66,15 @@ export default function Owl() {
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o3} className="owlCarouselImage" alt="Adıyaman Blue Liva Güzellik Merkezi" title="Adıyaman Blue Liva Güzellik Merkezi"></img>
-                   <p className="owlCarouselContent">Medikal Cilt Bakımı</p>
+                    <img src={o2} className="owlCarouselImage" alt="Vezirköprü Tat Çiğ Köfte" title="Vezirköprü Tat Çiğ Köfte"></img>
+                   <p className="owlCarouselContent">Kola</p>
                </div> 
             </div>
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o4} className="owlCarouselImage" alt="Adıyaman Blue Liva Güzellik Merkezi" title="Adıyaman Blue Liva Güzellik Merkezi"></img>
-                   <p className="owlCarouselContent">Microblading</p>
+                    <img src={o3} className="owlCarouselImage" alt="Vezirköprü Tat Çiğ Köfte" title="Vezirköprü Tat Çiğ Köfte"></img>
+                   <p className="owlCarouselContent">Şalgam</p>
                </div> 
             </div>
 
@@ -83,22 +82,22 @@ export default function Owl() {
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o5} className="owlCarouselImage" alt="Adıyaman Blue Liva Güzellik Merkezi" title="Adıyaman Blue Liva Güzellik Merkezi"></img>
-                   <p className="owlCarouselContent">Hydrafacial Cilt Bakımı</p>
+                    <img src={o1} className="owlCarouselImage" alt="Vezirköprü Tat Çiğ Köfte" title="Vezirköprü Tat Çiğ Köfte"></img>
+                   <p className="owlCarouselContent">Ayran</p>
                </div> 
             </div>
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o6} className="owlCarouselImage" alt="Adıyaman Blue Liva Güzellik Merkezi" title="Adıyaman Blue Liva Güzellik Merkezi"></img>
-                   <p className="owlCarouselContent">Kavitasyon</p>
+                    <img src={o2} className="owlCarouselImage" alt="Vezirköprü Tat Çiğ Köfte" title="Vezirköprü Tat Çiğ Köfte"></img>
+                   <p className="owlCarouselContent">Kola</p>
                </div> 
             </div>
 
             <div className="item owl-slider">
                 <div className="owlCarouselTemp">
-                    <img src={o7} className="owlCarouselImage" alt="Adıyaman Blue Liva Güzellik Merkezi" title="Adıyaman Blue Liva Güzellik Merkezi"></img>
-                   <p className="owlCarouselContent">Kirpik Lifting</p>
+                    <img src={o3} className="owlCarouselImage" alt="Vezirköprü Tat Çiğ Köfte" title="Vezirköprü Tat Çiğ Köfte"></img>
+                   <p className="owlCarouselContent">Şalgam</p>
                </div> 
             </div>
 
