@@ -46,54 +46,54 @@ export default class TopluHizmet extends Component {
       >
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Medikal Cilt Bakımı"
+            taslaktitle="Aile Menüsü - 1"
             taslakphoto={m2}
-            taslaktext="Blue Liva Güzellik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
             taslaklink="/medikal-cilt-bakimi"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Robotix Lazer Epilasyon"
+            taslaktitle="Aile Menüsü - 2"
             taslakphoto={m5}
-            taslaktext="Blue Liva Güzellik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
             taslaklink="/robotix-lazer-epilasyon"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Hydrafacial Cilt Bakımı"
+            taslaktitle="Aile Menüsü - 3"
             taslakphoto={m3}
-            taslaktext="Blue Liva Güzellik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
             taslaklink="/hydrafacial-cilt-bakimi"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="G5 Masajı - Kavitasyon"
+            taslaktitle="Aile Menüsü - 4"
             taslakphoto={m4}
-            taslaktext="Blue Liva Güzellik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
             taslaklink="/g5-kavitasyon"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Kirpik Lifting"
+            taslaktitle="Aile Menüsü - 5"
             taslakphoto={m1}
-            taslaktext="Blue Liva Güzellik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
             taslaklink="/kirpik-lifting"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Kaş Laminasyonu "
+            taslaktitle="Aile Menüsü - 6 "
             taslakphoto={m6}
-            taslaktext="Blue Liva Güzellik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
+            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
             taslaklink="/kas-laminasyonu"
           />
           <Send />
