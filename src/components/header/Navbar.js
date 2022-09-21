@@ -45,7 +45,7 @@ export default class Navbar extends Component {
           <li><a href="/" class="menu-link" style={{fontSize:"medium"}}><HomeIcon style={{fontSize:"medium"}}/>&nbsp;Ana Sayfa</a></li>
           <li><a href="/hakkimizda" class="menu-link" style={{fontSize:"medium"}}><BusinessIcon style={{fontSize:"medium"}}/>&nbsp;Hakkımızda</a></li>
        
-          <li><a href="/cihazlarimiz" class="menu-link" style={{fontSize:"medium"}}><CategoryIcon style={{fontSize:"medium"}}/>&nbsp;Cihazlarımız</a></li>
+          <li><a href="/cihazlarimiz" class="menu-link" style={{fontSize:"medium"}}><CategoryIcon style={{fontSize:"medium"}}/>&nbsp;Ürünlerimiz</a></li>
         
           <li><a href="/iletisim" class="menu-link" style={{fontSize:"medium"}}><ContactMailIcon style={{fontSize:"medium"}}/>&nbsp;İletişim</a></li>
         </ul>

@@ -47,7 +47,7 @@ export default class Foooter extends Component {
               }}
             >
               {" "}
-              Vezirköprü Çiğ Köfte olarak etli çiğ köfte tadında etsiz çiğ köftemiz bulunmaktadır. Her gün taze olarak gelen ürünlerimizle siz değerli müşterilerimize hizmet vermekteyiz. 
+              Vezirköprü Çiğ Köfte olarak etli çiğ köfte tadında etsiz çiğ köftemiz bulunmaktadır. Her gün taze olarak gelen ürünlerimizle siz değerli müşterilerimize hizmet vermekteyiz. Tatlı ve kurabiye çeşitlerimiz, dondurma ve süt mısır vb ürünlerimiz de mevcuttur.
             </p>
           </div>
 

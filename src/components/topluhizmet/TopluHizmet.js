@@ -49,7 +49,7 @@ export default class TopluHizmet extends Component {
             taslaktitle="Aile Menüsü - 1"
             taslakphoto={m2}
             taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
-            taslaklink="/medikal-cilt-bakimi"
+            taslaklink="/"
           />
           <Send />
         </div>
@@ -58,7 +58,7 @@ export default class TopluHizmet extends Component {
             taslaktitle="Aile Menüsü - 2"
             taslakphoto={m5}
             taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
-            taslaklink="/robotix-lazer-epilasyon"
+            taslaklink="/"
           />
           <Send />
         </div>
@@ -67,7 +67,7 @@ export default class TopluHizmet extends Component {
             taslaktitle="Aile Menüsü - 3"
             taslakphoto={m3}
             taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
-            taslaklink="/hydrafacial-cilt-bakimi"
+            taslaklink="/"
           />
           <Send />
         </div>
@@ -76,7 +76,7 @@ export default class TopluHizmet extends Component {
             taslaktitle="Aile Menüsü - 4"
             taslakphoto={m4}
             taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
-            taslaklink="/g5-kavitasyon"
+            taslaklink="/"
           />
           <Send />
         </div>
@@ -85,7 +85,7 @@ export default class TopluHizmet extends Component {
             taslaktitle="Aile Menüsü - 5"
             taslakphoto={m1}
             taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
-            taslaklink="/kirpik-lifting"
+            taslaklink="/"
           />
           <Send />
         </div>
@@ -94,7 +94,7 @@ export default class TopluHizmet extends Component {
             taslaktitle="Aile Menüsü - 6 "
             taslakphoto={m6}
             taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
-            taslaklink="/kas-laminasyonu"
+            taslaklink="/"
           />
           <Send />
         </div>
