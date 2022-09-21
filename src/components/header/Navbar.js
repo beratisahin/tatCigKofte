@@ -11,6 +11,7 @@ import ContactlessIcon from '@material-ui/icons/Contactless';
 import CategoryIcon from '@material-ui/icons/Category';
 
 import Logo4 from "./2-2.png";
+import tatLogo from "./tatLogo.png";
 
 
 export default class Navbar extends Component {
@@ -34,7 +35,7 @@ export default class Navbar extends Component {
           <nav class="navbar">
             <div class="branding">
               <a href="/">
-                <img  className="BlueLivaLogo" title="Adıyaman Blue Liva Güzellik Merkezi" src={Logo4}></img>
+                <img  className="BlueLivaLogo" title="Adıyaman Blue Liva Güzellik Merkezi" src={tatLogo}></img>
               </a>
                 
             </div>
