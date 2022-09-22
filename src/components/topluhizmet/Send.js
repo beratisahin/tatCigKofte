@@ -44,7 +44,7 @@ export default class Send extends Component {
                 value={this.state.value}
                 onChange={this.handleChange}
                 fullWidth
-                label="Mesajınızı giriniz"
+                label="Sipariş için menü numarasını ve adresinizi giriniz"
                 id="fullWidth"
                 style={{ width: "%100", zIndex: "+100" }}
               />
