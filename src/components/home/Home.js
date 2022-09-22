@@ -21,7 +21,7 @@ function Home() {
             fontFamily: "sans-serif",
           }}
         >
-          Paket Servisimiz Bulunmaktadır
+          Saat 18:00 - 24:00 arası Paket Servisimiz Bulunmaktadır
         </h2>
         <Klinik />
       </div>

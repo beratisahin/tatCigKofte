@@ -60,31 +60,31 @@ export default class Foooter extends Component {
                     <tbody>
                         <tr style={{height:"2px"}}>
                             <td>Pazartesi</td>
-                            <td>10:00 - 24:00</td>
+                            <td>11:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Salı</td>
-                            <td>10:00 - 24:00</td>
+                            <td>11:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Çarşamba</td>
-                            <td>10:00 - 24:00</td>
+                            <td>11:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Perşembe</td>
-                            <td>10:00 - 24:00</td>
+                            <td>11:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Cuma</td>
-                            <td>10:00 - 24:00</td>
+                            <td>11:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Cumartesi</td>
-                            <td>10:00 - 24:00</td>
+                            <td>11:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Pazar</td>
-                            <td>10:00 - 24:00</td>
+                            <td>11:00 - 24:00</td>
                         </tr>
                       
                     </tbody>
@@ -108,7 +108,7 @@ export default class Foooter extends Component {
               <FacebookIcon className="icon" style={{fontSize:"24px"}}/>
             </a>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/tatcigkofte_evi"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -116,7 +116,7 @@ export default class Foooter extends Component {
               <InstagramIcon className="icon" style={{fontSize:"24px",color:"purple"}}/>
             </a>
             <a
-              href="https://wa.me/+905302479585"
+              href="https://wa.me/+905414537955"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -130,14 +130,6 @@ export default class Foooter extends Component {
               style={{ float: "left", textIndent: "10px" }}
             >
               <SettingsPhoneIcon className="icon" style={{fontSize:"24px"}} />
-            </a>
-            <a
-              href="https://www.youtube.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ float: "left", textIndent: "10px",color:"red" }}
-            >
-              <YouTubeIcon className="icon" style={{fontSize:"24px"}} />
             </a>
             <br />
             <br/>
@@ -197,7 +189,7 @@ export default class Foooter extends Component {
 
 
           <div className="roof-location">
-              <a href="https://goo.gl/maps/7ryRSpGz7PPH1rZW9" className="location_float" target="_blank" rel="noopener noreferrer">
+              <a href="https://goo.gl/maps/ZFAwEgCvG8VddjxN8" className="location_float" target="_blank" rel="noopener noreferrer">
                   <LocationOnIcon className="location-icon"/>
               </a>
           </div>
@@ -209,7 +201,7 @@ export default class Foooter extends Component {
           </div>
 
           <div className="roof-whatsapp">
-              <a href="https://wa.me/+905302479585" className="whatsapp_float" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/+905414537955" className="whatsapp_float" target="_blank" rel="noopener noreferrer">
                   <WhatsAppIcon className="whatsapp-icon"/>
               </a>
           </div>
