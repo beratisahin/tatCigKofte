@@ -60,31 +60,31 @@ export default class Foooter extends Component {
                     <tbody>
                         <tr style={{height:"2px"}}>
                             <td>Pazartesi</td>
-                            <td>09:00 - 19:00</td>
+                            <td>10:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Salı</td>
-                            <td>09:00 - 19:00</td>
+                            <td>10:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Çarşamba</td>
-                            <td>09:00 - 19:00</td>
+                            <td>10:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Perşembe</td>
-                            <td>09:00 - 19:00</td>
+                            <td>10:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Cuma</td>
-                            <td>09:00 - 19:00</td>
+                            <td>10:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Cumartesi</td>
-                            <td>09:00 - 19:00</td>
+                            <td>10:00 - 24:00</td>
                         </tr>
                         <tr>
                             <td>Pazar</td>
-                            <td>09:00 - 19:00</td>
+                            <td>10:00 - 24:00</td>
                         </tr>
                       
                     </tbody>

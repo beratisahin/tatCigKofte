@@ -165,7 +165,7 @@ header {
     top: 10rem !important;
     left: 0;
     right: 0;
-    height: 50vh;
+    height: 30vh;
 
     opacity: 0;
     transform: scaleY(0);
