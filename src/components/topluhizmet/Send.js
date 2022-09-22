@@ -17,7 +17,7 @@ export default class Send extends Component {
     this.setState({ value: e.target.value });
     this.setState({
       kampanyaAd: encodeURI(
-        `https://wa.me/+905302479585?text=${e.target.value}`
+        `https://wa.me/+905414537955?text=${e.target.value}`
       ),
     });
   }
