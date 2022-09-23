@@ -26,9 +26,6 @@ function Home() {
         </h2>
         <Kampanya />
       </div>
-
-      <br />
-      <hr />
       <p className="harita_baslik">Menülerimiz</p>
       <div className="row">
         <TopluHizmet />
