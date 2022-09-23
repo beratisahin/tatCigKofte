@@ -1,7 +1,6 @@
 import React from "react";
 import ReactPlayer from "react-player";
 import "./Home.css";
-import Mail from "../iletisim/ContactForm";
 import Icecek from "../icecek/Icecekler";
 import Klinik from "../klinik/Klinik.js";
 
@@ -48,10 +47,7 @@ function Home() {
         </h2>
         <Icecek />
       </div>
-      <br />
-      <div className="col-12">
-        <Mail />
-      </div>
+     
       <br />
       <div className="row m-2">
         <div
