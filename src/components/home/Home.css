@@ -11,7 +11,8 @@
   
     
       .doktorlarTitle{
-        font-size: medium !important;
+        font-size: small !important;
+        margin: 2px !important;
       }
     .harita{
         height:30rem !important;
