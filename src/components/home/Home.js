@@ -2,7 +2,7 @@ import React from "react";
 import ReactPlayer from "react-player";
 import "./Home.css";
 import Mail from "../iletisim/ContactForm";
-import Owl from "../owlcarousel/Owl";
+import Icecek from "../icecek/Icecekler";
 import Klinik from "../klinik/Klinik.js";
 
 import TopluHizmet from "../topluhizmet/TopluHizmet.js";
@@ -46,7 +46,7 @@ function Home() {
         >
           İçeceklerimiz
         </h2>
-        <Owl />
+        <Icecek />
       </div>
       <br />
       <div className="col-12">
