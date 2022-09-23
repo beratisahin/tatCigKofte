@@ -4,13 +4,10 @@ import React, { Component } from "react";
 import { Menubar } from 'primereact/menubar';
 
 import BusinessIcon from '@material-ui/icons/Business';
-import CameraAltIcon from '@material-ui/icons/CameraAlt';
 import ContactMailIcon from '@material-ui/icons/ContactMail';
 import HomeIcon from '@material-ui/icons/Home';
-import ContactlessIcon from '@material-ui/icons/Contactless';
 import CategoryIcon from '@material-ui/icons/Category';
 
-import Logo4 from "./2-2.png";
 import tatLogo from "./tatLogo.png";
 
 
@@ -35,7 +32,7 @@ export default class Navbar extends Component {
           <nav class="navbar">
             <div class="branding">
               <a href="/">
-                <img  className="BlueLivaLogo" title="Vezirköprü Tat Çiğ Köfte" src={tatLogo}></img>
+                <img  className="TatLogo" title="Vezirköprü Tat Çiğ Köfte" src={tatLogo}></img>
               </a>
                 
             </div>

@@ -129,7 +129,7 @@ header {
   transform: rotate(225deg);
 }
 
-.BlueLivaLogo{
+.TatLogo{
   width:12rem !important;
   height:12rem !important;
   
@@ -261,11 +261,11 @@ header {
     transform: scaleY(1);
   }
 
-  .BlueLivaLogo{
-    width:18rem !important;
+  .TatLogo{
+    width:12rem !important;
     height:10rem !important;
     float: left !important;
-    margin-left: -12rem !important;
+    margin-left: -15rem !important;
     margin-top: -1rem !important;
   }
  
