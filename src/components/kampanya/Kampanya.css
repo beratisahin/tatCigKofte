@@ -105,7 +105,7 @@
    margin:auto !important;
    display: block !important;
    padding: 10px !important;
-   vertical-align: middle !important;
+   /*vertical-align: middle !important;*/
    font-size: medium;
    text-decoration: none !important;
    animation-name: whatsapp_float_mesaj;
@@ -123,22 +123,10 @@
    to {color: #31CE80}
 }
 
-
-
-
-
-
-
 .roof-whatsapp_kampanya:hover{
  background-color:white ;
- 
+ }
 
-}
-
-
- 
- 
- 
  /* On screens that are 600px or less, set the background color to olive */
  @media screen and (max-width: 700px) {
      

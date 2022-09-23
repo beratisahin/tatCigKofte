@@ -2,11 +2,13 @@ import React from "react";
 import ReactPlayer from "react-player";
 import "./Home.css";
 import Icecek from "../icecek/Icecekler";
-import Klinik from "../klinik/Klinik.js";
+import Kampanya from "../kampanya/Kampanya.js";
+import useDocumentTitle from "../../useDocumentTitle.js";
 
 import TopluHizmet from "../topluhizmet/TopluHizmet.js";
 
 function Home() {
+  useDocumentTitle("Vezirköprü Tat Çiğ Köfte");
   return (
     <div>
       <div className="row">
@@ -22,11 +24,12 @@ function Home() {
         >
           Saat 18:00 - 24:00 arası Paket Servisimiz Bulunmaktadır
         </h2>
-        <Klinik />
+        <Kampanya />
       </div>
 
       <br />
       <hr />
+      <p className="harita_baslik">Menülerimiz</p>
       <div className="row">
         <TopluHizmet />
       </div>
@@ -34,15 +37,7 @@ function Home() {
       <hr />
 
       <div className="row">
-        <h2
-          className="doktorlarTitle"
-          style={{
-            textAlign: "center",
-            fontSize: "x-large",
-            color: "#FD0F0F",
-            fontFamily: "sans-serif",
-          }}
-        >
+        <h2 className="harita_baslik">
           İçeceklerimiz
         </h2>
         <Icecek />

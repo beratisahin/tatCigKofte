@@ -44,56 +44,56 @@ export default class TopluHizmet extends Component {
           marginLeft: "-2rem",
         }}
       >
-        <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Aile Menüsü - 1"
-            taslakphoto={m2}
-            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
-            taslaklink="/"
-          />
-          <Send />
-        </div>
-        <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-          <Taslak
-            taslaktitle="Aile Menüsü - 2"
+            taslaktitle="Menü 2: Ekonomik Paket - 110₺"
             taslakphoto={m5}
-            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
+            taslaktext="Kiloluk Paket - 1000gr Çiğ Köfte, 8 Adet Lavaş, Tam Göbek, Sos"
             taslaklink="/"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Aile Menüsü - 3"
+            taslaktitle="Menü 1: Aile Boyu - 95₺"
+            taslakphoto={m2}
+            taslaktext="Aile Boyu - 800gr Çiğ Köfte, 6 Adet Lavaş, 3 Çeyrek Göbek, Sos, Limon"
+            taslaklink="/"
+          />
+          <Send />
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+          <Taslak
+            taslaktitle="Menü 3: Tam Porsiyon - 30₺"
             taslakphoto={m3}
-            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
+            taslaktext="Tam Porsiyon - 250 gr Çiğ Köfte, 2 Adet Lavaş, Çeyrek Göbek, Sos, Limon"
             taslaklink="/"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Aile Menüsü - 4"
+            taslaktitle="Menü 4: Ekstra Porsiyon - 40₺"
             taslakphoto={m4}
-            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
+            taslaktext="Ekstra Porsiyon - 300 gr Çiğ Köfte, 2 Adet Lavaş, Çeyrek Göbek, Sos, Limon"
             taslaklink="/"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Aile Menüsü - 5"
+            taslaktitle="Menü 5: Dürüm - 20₺"
             taslakphoto={m1}
-            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
+            taslaktext="Dürüm - 90 gr Çiğ Köfte, 1 Adet Lavaş, Yeşillik, Ayran"
             taslaklink="/"
           />
           <Send />
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Aile Menüsü - 6 "
+            taslaktitle="Menü 6: Maxi Dürüm - 25₺ "
             taslakphoto={m6}
-            taslaktext="Vezirköprü Tat Çiğ Köfte olarak en taze ve lezzetli ürünlerimizi sizlerle buluşturuyoruz"
+            taslaktext="140 gr Çiğ Köfte, 2 Adet Lavaş, Bol Yeşillik, Ayran"
             taslaklink="/"
           />
           <Send />

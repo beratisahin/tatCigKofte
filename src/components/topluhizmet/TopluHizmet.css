@@ -12,6 +12,7 @@
     
    
   }
+  
   .image:hover{
     
     border:2px outset #0180c2;
@@ -130,6 +131,10 @@
     }
     .more .read-more, .more .icon-links a i{
       font-size: 18px;
+    }
+    .siparisMesaji{
+       font-size: x-small !important;
+       color:orange !important;
     }
   }
   

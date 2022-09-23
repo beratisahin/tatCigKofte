@@ -10,7 +10,7 @@ import {
 
 import Home from "./components/home/Home";
 import Hakkimizda from "./components/hakkimizda/Hakkimizda";
-
+import Urunler from "./components/hakkimizda/Urunler";
 import Iletisim from "./components/iletisim/ContactForm";
 
 
@@ -33,8 +33,7 @@ function App() {
             <Route exact path="/" component={Home} />
             <Route exact path="/anasayfa" component={Home} />
             <Route path="/hakkimizda" component={Hakkimizda} />
-
-            
+            <Route path="/urunler" component={Urunler} />
             <Route path="/iletisim" component={Iletisim} />
 
           

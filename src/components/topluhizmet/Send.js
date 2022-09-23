@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { TextField } from "@material-ui/core";
 import { Button } from "@material-ui/core";
 import SendIcon from "@material-ui/icons/Send";
+import "./TopluHizmet.css";
 
 export default class Send extends Component {
   constructor(props) {
@@ -44,7 +45,7 @@ export default class Send extends Component {
                 value={this.state.value}
                 onChange={this.handleChange}
                 fullWidth
-                label="Sipariş için menü numarasını ve adresinizi giriniz"
+                label="Sipariş için menü no ve adresinizi giriniz"
                 id="fullWidth"
                 style={{ width: "%100", zIndex: "+100" }}
               />

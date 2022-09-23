@@ -21,9 +21,9 @@ export default class Taslak extends Component {
           </div>
 
           <div class="more">
-            <a href={taslaklink} class="read-more">
-              Daha Fazla Bilgi
-            </a>
+            <p class="read-more">
+              Daha Fazla Bilgi için Arayınız
+            </p>
             <div class="icon-links">
               <a href="#">
                 <i class="fa-solid fa-leaf" style={{ color: "#FD0F0F" }}></i>
