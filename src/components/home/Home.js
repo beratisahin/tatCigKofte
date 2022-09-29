@@ -8,7 +8,7 @@ import useDocumentTitle from "../../useDocumentTitle.js";
 import TopluHizmet from "../topluhizmet/TopluHizmet.js";
 
 function Home() {
-  useDocumentTitle("Vezirköprü Tat Çiğ Köfte");
+  useDocumentTitle("Vezirköprü Çiğ Köfte");
   return (
     <div>
       <div className="row">
