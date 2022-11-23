@@ -3,18 +3,17 @@ import './Icecekler.css';
 import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.min.css'
 import 'owl.carousel/dist/assets/owl.theme.default.min.css'
-import { NavigateBeforeSharp } from '@material-ui/icons';
 
-import i1 from "../icecek/icecekler/1.png";
-import i2 from "../icecek/icecekler/2.png";
-import i3 from "../icecek/icecekler/3.png";
-import i4 from "../icecek/icecekler/4.png";
-import i5 from "../icecek/icecekler/5.png";
-import i6 from "../icecek/icecekler/6.png";
-import i7 from "../icecek/icecekler/7.png";
-import i8 from "../icecek/icecekler/8.png";
-import i9 from "../icecek/icecekler/9.png";
-import i10 from "../icecek/icecekler/10.png";
+import i1 from "../icecek/icecekler/1.webp";
+import i2 from "../icecek/icecekler/2.webp";
+import i3 from "../icecek/icecekler/3.webp";
+import i4 from "../icecek/icecekler/4.webp";
+import i5 from "../icecek/icecekler/5.webp";
+import i6 from "../icecek/icecekler/6.webp";
+import i7 from "../icecek/icecekler/7.webp";
+import i8 from "../icecek/icecekler/8.webp";
+import i9 from "../icecek/icecekler/9.webp";
+import i10 from "../icecek/icecekler/10.webp";
 
 
 

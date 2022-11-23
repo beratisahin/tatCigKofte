@@ -1,16 +1,12 @@
 import Taslak from "../taslakhizmet/Taslak.js";
 import "./TopluHizmet.css";
-import m1 from "./hizmetFotolar/1.png";
-import m2 from "./hizmetFotolar/2.png";
-import m3 from "./hizmetFotolar/3.png";
-import m4 from "./hizmetFotolar/4.png";
-import m5 from "./hizmetFotolar/5.png";
-import m6 from "./hizmetFotolar/6.png";
+import m1 from "./hizmetFotolar/1.webp";
+import m2 from "./hizmetFotolar/2.webp";
+import m3 from "./hizmetFotolar/3.webp";
+import m4 from "./hizmetFotolar/4.webp";
+import m5 from "./hizmetFotolar/5.webp";
+import m6 from "./hizmetFotolar/6.webp";
 import React, { Component } from "react";
-import { TextField } from "@material-ui/core";
-import { Button } from "@material-ui/core";
-import SendIcon from "@material-ui/icons/Send";
-import WhatsAppIcon from "@material-ui/icons/WhatsApp";
 import Send from "./Send.js";
 
 export default class TopluHizmet extends Component {

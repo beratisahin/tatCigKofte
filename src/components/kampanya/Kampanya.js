@@ -4,11 +4,11 @@ import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.min.css'
 import 'owl.carousel/dist/assets/owl.theme.default.min.css'
 import { NavigateBeforeSharp } from '@material-ui/icons';
-import t1 from "./kampanyalar/tat1.PNG";
-import t2 from "./kampanyalar/tat2.PNG";
-import t3 from "./kampanyalar/tat3.PNG";
-import t4 from "./kampanyalar/tat4.PNG";
-import t5 from "./kampanyalar/tat5.PNG";
+import t1 from "./kampanyalar/tat1.webp";
+import t2 from "./kampanyalar/tat2.webp";
+import t3 from "./kampanyalar/tat3.webp";
+import t4 from "./kampanyalar/tat4.webp";
+import t5 from "./kampanyalar/tat5.webp";
 
 
 import KampComp from "./KampanyaComp.js";

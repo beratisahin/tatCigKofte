@@ -4,7 +4,6 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 import WhatsAppIcon from "@material-ui/icons/WhatsApp";
 import EmailIcon from "@material-ui/icons/Email";
 import HomeIcon from "@material-ui/icons/Home";
-import YouTubeIcon from '@material-ui/icons/YouTube';
 import SettingsPhoneIcon from "@material-ui/icons/SettingsPhone";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { Link } from "react-router-dom";
